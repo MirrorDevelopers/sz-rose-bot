@@ -1,16 +1,16 @@
 {
       "name": "SZROSEBOT",
-      "description": "Hey there 👋 I'm szrosebot .A Powerful, Smart And Simple Group Manager with some extra features..",
-	  "logo": "https://telegra.ph/file/9dd16a0599147d664f2a8.jpg",
+      "description": "Hey there 👋 I'm YatchiBot .A Powerful, Smart And Simple Group Manager with some extra features..",
+	  "logo": "https://telegra.ph/file/7a54292bbd4f407c76465.jpg",
       "keywords": [
          "Telegram",
          "Groupmanager",
          "sz-rose-bot"
       ],   
-   "repository": "https://github.com/youtubeslgeekshow/sz-rose-bot",
+   "repository": "T.me/TeamSingleZ",
    "buildpacks": [
     {
-      "url": "https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest"
+      "url":github.com"
     },
     {
       "url": "heroku/python"
